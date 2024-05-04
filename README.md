@@ -1,14 +1,20 @@
-Pay Predictor
+Team Members
 
-Inspiration
+Sonu Kumar 
+Ravulapalli Tanuja
+Nakshatra Mutyam
+
+Salary Predictor
+
+Motivation
 
 The purpose of this project is to develop a machine learning application that will help the general public and make learning about machine learning techniques easier. This application is a useful tool for analyzing possible wages because it uses data from Stack Overflow to anticipate an individual's pay based on multiple characteristics.
 
-Problem Synopsis
+Problem Statement
 
 Rather of classifying income into wide categories, the purpose of the wage Predictor is to precisely forecast an individual's real wage based on a variety of variables. This straightforward method aids in accurate policy and budgetary planning.
 
-Set of Data
+Data set 
 
 The Stack Overflow Annual Developer Survey provided the data for this project. This extensive dataset offers insights on the global developer community's wages and professional behavior.[Stack Overflow Developer Survey] is the data source.(https://stackoverflow.co/survey)
 
@@ -18,7 +24,7 @@ Phase 1: Consists of the Exploratory Data Analysis (EDA) details (code + report)
 Phase 2: Explains how Machine Learning models are applied to the cleaned data, along with comprehensive findings and comparisons to determine which model works best in this situation.
 Phase 3: Consists of the completed application (report and code), which is an online Salary Predictor created with the selected model. The user interface code is also included in this phase.
 
-Technology Employed
+Technology used
 
 Python programming language; Streamlit application framework; Plotly, Matplotlib, Seaborn data visualization
 
